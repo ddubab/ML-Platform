@@ -20,7 +20,7 @@
 
 ※ 백엔드 서버-K8s 리소스 통신 dependency – Java fabric8 kubernetes client API
 
-![version](/version.png)
+<img width="372" alt="Image" src="https://github.com/user-attachments/assets/d5dd0fde-54cd-4ef1-b08f-daa7ef747c65" />
 
 ### 담당 업무
 
@@ -42,11 +42,11 @@
 
 ### 학습 서비스 생성 흐름
 
-![createTrainEvent](/createTrainEvent.png)
+![Image](https://github.com/user-attachments/assets/2062243a-1206-4177-8370-c5c717f5bb59)
 
 ### 서빙 서비스 생성 흐름
 
-![createServingEvent](/createServingEvent.png)
+![Image](https://github.com/user-attachments/assets/69f0cb0a-819d-4aa3-ab64-29cbfff4b543)
 
 
 ## 트러블 슈팅
@@ -67,10 +67,9 @@
 
 - iSVC 생성의 반복적인 작업을 제거함으로 배포 프로세스 간소화
 - 배포 속도를 개선하여, 운영 효율성 향상
+![Image](https://github.com/user-attachments/assets/840d7a73-6090-4ecc-853d-761e4e8b2577)
 
-![beforeOne](/beforeOne.png)
-
-![afterOne](/afterOne.png)
+![Image](https://github.com/user-attachments/assets/7d1c0dcd-488d-48c9-a7b8-38baf55e3cdb)
 
 
 
@@ -92,9 +91,9 @@
 - 학습 상태를 Pod 단위로 모니터링할 수 있어, 상태 확인 및 관리 용이
 - 학습 과정을 세분화함으로써 모델 테스트와 디버깅 효율성 향상
 
-![beforeTwo](/beforeTwo.png)
+![Image](https://github.com/user-attachments/assets/4621b341-3e17-48d0-b881-99e50c555d37)
 
-![afterTwo](/afterTwo.png)
+![Image](https://github.com/user-attachments/assets/9cf8236b-48a2-4899-ab6b-b6d3c26b4c11)
 
 
 
